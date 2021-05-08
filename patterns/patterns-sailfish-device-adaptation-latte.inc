@@ -32,7 +32,7 @@ Requires: qt5-plugin-generic-evdev
 
 # bluetooth tools
 Requires: bluez5-tools
-Requires: broadcom-bluetooth
+Requires: broadcom-bluetooth-bluez5
 Requires: bluetooth-rfkill-event-hciattach
 
 Requires: pulseaudio-modules-droid-keepalive
