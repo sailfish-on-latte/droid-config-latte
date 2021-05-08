@@ -22,3 +22,5 @@
 %define have_modem 0
 
 %include droid-configs-device/droid-configs.inc
+%include patterns/patterns-sailfish-device-adaptation-latte.inc
+%include patterns/patterns-sailfish-device-configuration-latte.inc
